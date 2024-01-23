@@ -10,7 +10,7 @@ Tất cả các file python sẽ được set trong 2 máy chú tương ướng 
 ![whiteboard_exported_image](https://github.com/ngdvietha/Python-SQL-server-Autobackup-and-notification/assets/71718604/59e9e9c7-aa40-4bd5-b702-5572bc9c8f62)
 
 <h1>Project 2: Tổng hợp dữ liệu từ nhiều file Excel có cùng cấu trúc</h1>
-Nhân viên trong công ty fill form đánh giá chéo nhân sự cuối năm, sau đó cần có giải pháp để tất cả các file excel này chảy về một bảng tổng phục vụ cho việc tổng hợp, phân tích và visualize <br> <br>
+Nhân viên trong công ty fill form đánh giá chéo nhân sự cuối năm, sau đó cần có giải pháp để tất cả các file excel này chảy về một bảng tổng phục vụ cho việc tổng hợp, phân tích và visualize. Dữ liệu trong file excel đã được thay đổi tên <br> <br>
 - Có 2 folder đánh giá dành cho nhân viên và quản lý <br>
 - Trong mỗi folder có một file python sử đụng để tổng hợp những file excel vào một file excel tổng (Result.xlsx)
 <br>
